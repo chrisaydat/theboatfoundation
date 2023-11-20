@@ -42,7 +42,7 @@
 }
 
 .btn.btn-primary:hover {
-    color: var(--primary);
+    color: #0fc7ff;
     background: transparent;
 }
 
@@ -101,7 +101,7 @@
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color: #0fc7ff;
 }
 
 @media (max-width: 991.98px) {
@@ -253,8 +253,8 @@
 
 .btn-group .btn-light:hover,
 .btn-group input[type="radio"]:checked+label {
-    color: var(--primary);
-    border-color: var(--primary);
+    color: #0fc7ff;
+    border-color: #FFFFFF;
 }
 
 
@@ -444,5 +444,5 @@
 }
 
 .footer .copyright a:hover {
-    color: var(--primary);
+    color: #0fc7ff;
 }
